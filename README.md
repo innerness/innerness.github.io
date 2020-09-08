@@ -1,1 +1,1 @@
-# innerness.github.io
+# static.innerness.org
